@@ -19,7 +19,7 @@
 
 ## 📉 Databases
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Game-XMLs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Game-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Game-Updates)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Game-News&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Game-News)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Firmware-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Firmware-Updates)
     
@@ -37,7 +37,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Podcasts&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Podcasts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=PSX-Place&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/PSX-Place)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=ScreenSavers&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/ScreenSavers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Servers&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Servers&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Servers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=SoundTracks&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/SoundTracks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Stores&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Stores)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Themes&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Themes)
