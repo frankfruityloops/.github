@@ -18,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Mamba&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Mamba)
 
 ## 📉 Databases
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Recently-Played&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Recently-Played)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Game-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Game-Updates)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Game-News&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Game-News)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Firmware-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Firmware-Updates)
