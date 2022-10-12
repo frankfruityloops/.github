@@ -22,6 +22,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Game-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Game-Updates)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Game-News&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Game-News)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Firmware-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Firmware-Updates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Cheat-Engine&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Cheat-Engine)
     
 ## 📁 Resources
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Avatars&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Avatars)
