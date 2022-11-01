@@ -18,11 +18,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Mamba&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Mamba)
 
 ## 📉 Databases
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Firmware-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Firmware-Updates)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Game-Cheats&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Game-Cheats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Game-News&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Game-News)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Game-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Game-Updates)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=DB-Recently-Played&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Recently-Played)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Firmware-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Firmware-Updates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Game-Cheats&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Game-Cheats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Game-News&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Game-News)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Game-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Game-Updates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Recently-Played-Games&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Recently-Played-Games)
     
 ## 📁 Resources
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Avatars&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Avatars)
