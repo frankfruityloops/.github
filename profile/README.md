@@ -23,8 +23,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Game-News&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Game-News)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Game-Updates&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/DB-Game-Updates)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Recently-Played-Games&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Recently-Played-Games)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=PSN-Content&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/PSN-Content)
-    
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=PSN-Content&theme=github_light&show_icons=trure)](https://github.com/PS3-4K-Pro/PSN-Content)
+
 ## 📁 Resources
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Avatars&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Avatars)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PS3-4K-Pro&repo=Billboards&theme=github_light&show_icons=true)](https://github.com/PS3-4K-Pro/Billboards)
