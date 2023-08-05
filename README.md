@@ -1,5 +1,4 @@
-# .github
-About PS3™ FAT Pro
+PS3™ FAT Pro
 
 <div align="center">
      
